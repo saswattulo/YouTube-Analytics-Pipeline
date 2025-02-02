@@ -1,6 +1,6 @@
 # Author: Saswat Tulo
 # Date : 01/Feb/2025
-# Description: This AWS Glue job is used to read the csv file from the cleaned layer and write the data to the analytics layer in parquet format.
+# Description: This AWS Glue job is used to read the csv file from the data catalog of cleaned layer and write the data to the analytics layer in parquet format.
 
 
 import sys
