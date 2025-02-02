@@ -32,7 +32,7 @@ This Kaggle dataset contains statistics (CSV files) on daily popular YouTube vid
 
 https://www.kaggle.com/datasets/datasnaek/youtube-new
 
-https://github.com/saswattulo/YouTube-Data-Engineering/tree/main/data
+[https://github.com/saswattulo/YouTube-Data-Engineering/tree/main/data](https://github.com/saswattulo/YouTube-Analytics-Pipeline/tree/main/data)
 
 ## Architecture Diagram
 
